@@ -1,0 +1,5 @@
+authInfo:
+  produser: prodpassword
+databaseServer: dbms
+databaseUrl: dbms.server:1234
+metricsServerUrl: metrics.server:1234
